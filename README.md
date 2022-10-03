@@ -1,5 +1,5 @@
 ### Hi! I'm Clement Femi Bazuaye! 🖐️
-Passionate about technology, education and learn something new.
+A very passionate and talented Front-End Developer, UI/UX Designer and Motion Design Artist.
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbazz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bazz_ng/)
