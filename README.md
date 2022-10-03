@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/bazz_ng" target="blank"><img src="https://img.shields.io/twitter/follow/bazz_ng?logo=twitter&style=for-the-badge" alt="bazz_ng" /></a> </p>
 
-- 🌱 I’m currently learning **python**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_IdtWX_wnVLtRXwMUxxU2pCoIMx2XN_OHUQF7ouw3yg/edit?usp=sharing](https://docs.google.com/document/d/1_IdtWX_wnVLtRXwMUxxU2pCoIMx2XN_OHUQF7ouw3yg/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/devbazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devbazz" height="30" width="40" /></a>
