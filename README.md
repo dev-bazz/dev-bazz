@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Clement Femi Bazuaye</h1>
-<h3 align="center">A passionate frontend developer, UI/UX Designer from Nigeria</h3>
+### Hi 👋, I'm Clement Femi Bazuaye</h1>
+<h3>A passionate frontend developer, UI/UX Designer from Nigeria</h3>
+<img align="right"  width="400" src="https://dribbble.com/shots/4753031-Designer/attachments/10574821?mode=media"/>
 
 <p align="left"> <a href="https://twitter.com/bazz_ng" target="blank"><img src="https://img.shields.io/twitter/follow/bazz_ng?logo=twitter&style=for-the-badge" alt="bazz_ng" /></a> </p>
 
