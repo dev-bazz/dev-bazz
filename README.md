@@ -1,5 +1,5 @@
 ### Hi! I'm Clement Femi Bazuaye! 🖐️
-Passionate about technology, education and learn something new.
+Front-end developer, UI Designer From Lagos, Nigeria 
 <a href='https://linkedin.com/in/devbazz'><img align="right"  width="400" src="https://i.pinimg.com/originals/22/d4/f6/22d4f6bc4f0bca42028f2c46732ce9af.gif"/></a>
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbazz/)
