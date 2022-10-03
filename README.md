@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Clement Femi Bazuaye</h1>
 <h3>A passionate frontend developer, UI/UX Designer from Nigeria</h3>
-<a href='https://linkedin.com/in/devbazz'><img align="right"  width="400" src="https://miro.medium.com/max/1400/1*MmlyR9FgNdaexEvu47qlTQ.gif"/></a>
+<a href='https://linkedin.com/in/devbazz'><img align="right"  width="400" src="https://i.pinimg.com/originals/22/d4/f6/22d4f6bc4f0bca42028f2c46732ce9af.gif"/></a>
 
 <p align="left"> <a href="https://twitter.com/bazz_ng" target="blank"><img src="https://img.shields.io/twitter/follow/bazz_ng?logo=twitter&style=for-the-badge" alt="bazz_ng" /></a> </p>
 
