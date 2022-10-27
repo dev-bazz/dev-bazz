@@ -11,8 +11,7 @@ I'm a Front-end Developer + Product Designer
 
 
 
-##  Skills
-<h3 align="left" style="display:flex; flex-flow: row wrap;">Skill Set:</h3>
+###  Skills
 <div class"ss" style="display:flex">
   <img align="center"  alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -28,7 +27,7 @@ I'm a Front-end Developer + Product Designer
 
 
 
-## 🔗 Social
+### 🔗 Social
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbazz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bazz_ng/)
 
