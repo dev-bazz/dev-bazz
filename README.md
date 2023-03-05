@@ -8,6 +8,8 @@
 ## 👨🏿‍💻 About Me
 I'm a Front-end Developer + Product Designer
 
+<iframe style="border: none" width="1000" height="1000" src="https://rive.app/s/Yyqk1OrcM0uMBU4pIIxoBQ/embed" allowfullscreen></iframe>
+
 ###  Skills
 <div class"ss" style="display:flex; flex-flow:row wrap; gap:2rem; align-content:space-around;">
   <img align="center"  alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
