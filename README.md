@@ -8,7 +8,6 @@
 ## 👨🏿‍💻 About Me
 I'm a Front-end Developer + Product Designer
 
-<iframe style="border: none" width="1000" height="1000" src="https://rive.app/s/Yyqk1OrcM0uMBU4pIIxoBQ/embed" allowfullscreen></iframe>
 
 ###  Skills
 <div class"ss" style="display:flex; flex-flow:row wrap; gap:2rem; align-content:space-around;">
