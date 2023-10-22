@@ -24,5 +24,3 @@ I'm a Front-end Developer + Product Designer
 </div>
 
 
-### Social
-  [![Profile](https://codeium.com/badges/main)](https://codeium.com)
