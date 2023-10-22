@@ -23,27 +23,6 @@ I'm a Front-end Developer + Product Designer
   </div>
 </div>
 
-### 🔗 Social
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbazz/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bazz_ng/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="left">
-<a href="https://codepen.io/devbazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devbazz" height="30" width="40" /></a>
-<a href="https://twitter.com/bazz_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bazz_ng" height="30" width="40" /></a>
-<a href="https://www.behance.net/femibazuaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="femibazuaye" height="30" width="40" /></a>
-</p>
-
-<div style="display: inline_block"><br>
-
+### Social
+  [![Profile](https://codeium.com/badges/main)](https://codeium.com)
